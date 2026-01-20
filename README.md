@@ -111,4 +111,9 @@ This project is licensed under the **MIT License**.
 
 ---
 
+## 🐍 Snake Game | Live: https://parult19.github.io/snake-game/
+
+---
+
+
 ⭐ If you like this project, consider giving it a star on GitHub!
